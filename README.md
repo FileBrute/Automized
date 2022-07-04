@@ -1,4 +1,6 @@
-<a href="https://dsc.gg/Automized" target="_blank"> <img src="https://wallpapercave.com/wp/wp2757874.gif" alt="Automized's Github"/></a>
+<p align="center">
+  <a href="https://dsc.gg/Automized" target="_blank"> <img src="https://i.imgur.com/k0mE9cf.gif" alt="Automized's Github"/></a>
+</p>
 
 <p align="center"><img src="https://gpvc.arturio.dev/Automized" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Stars"></a>
